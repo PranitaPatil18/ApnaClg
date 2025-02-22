@@ -1,3 +1,3 @@
 # ApnaClg
 this is my first repo <br>
-author-Pranita
+author-Pranita Patil
